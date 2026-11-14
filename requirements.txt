@@ -1,0 +1,9 @@
+# Proposed dependency ranges; a fully tested lockfile was not supplied.
+tensorflow>=2.20,<2.22
+keras>=3.13.2,<4
+streamlit>=1.40,<2
+yfinance>=0.2.54,<1
+pandas>=2.2,<3
+numpy>=1.26,<3
+matplotlib>=3.8,<4
+scikit-learn>=1.5,<2

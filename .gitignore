@@ -1,0 +1,19 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+.env.*
+.streamlit/secrets.toml
+*.log
+*.csv
+*.pkl
+*.joblib
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+dist/
+build/
+# The small supplied .keras model is intentionally tracked.
